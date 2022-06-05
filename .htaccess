@@ -1,0 +1,5 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^weydrop\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^dev\.weydrop\.com$
+RewriteRule ^/?$ "http\:\/\/dev\.weydrop\.com\/sa\-en\/" [R=301,L]

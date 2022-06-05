@@ -1,0 +1,30 @@
+angular 8.0 
+top clientside js framework
+framework = library + software design pattern (sigleton,factory...)
+1. modules
+2. directives
+3. pipes
+4. classes
+5. interfaces
+6. services ( data in)
+7. enums
+8. components
+(=user interphase + directive)
+eg. login form, registration form, subscription form
+html part+ ts file (typescript)+css
+reactjs, viewjs --library
+
+
+npm (node package manager)
+php (composer)
+
+
+1. install npm
+2. using npm install @angular/cli
+3. using cli, create new project
+
+creating component
+ng g c login
+src/app
+
+plz show me the page where it is

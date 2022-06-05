@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'Montserrat';
+  font-weight: bold;
+  src: url(Montserrat-Bold_0.otf)
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-weight: 100;
+  src: url(Montserrat-Light.otf)
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-weight: normal;
+  src: url(Montserrat-Regular.otf)
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-weight: 200;
+  src: url(Montserrat-SemiBold.otf)
+}
+@font-face {
+  font-family: 'MyriadPro';
+  font-weight: normal;
+  src: url(MyriadPro-Regular.otf)
+}

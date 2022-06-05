@@ -1,0 +1,73 @@
+.abcRioButton.abcRioButtonLightBlue {
+	width: 100%;
+}
+
+#my-signin2 > div {
+	width: 100% !important;
+}
+#my-signin3 > div {
+	width: 100% !important;
+}
+
+#my-signin2 {
+	height: 40px;
+	overflow: hidden;
+}
+#my-signin3 {
+	height: 40px;
+	overflow: hidden;
+	position: relative;
+	bottom: 41px;
+	opacity: 0;
+}
+.facebookbtn {
+	/*margin-bottom: -20px;*/
+	height: 40px;
+	overflow:hidden;
+	margin-bottom: 15px;
+
+	overflow: hidden;
+}
+.facebookbtn > div {
+	opacity: 0.01;
+	/*position: relative;*/
+	margin-top: -40px;
+
+}
+#my-signin2 {
+	height: 40px;
+	overflow: hidden;
+	position: relative;
+	bottom: 41px;
+	opacity: 0;
+}
+
+.login_form #gpgoogle {
+	background: #be2c2c;
+	color: #fff;
+	border: none;
+	padding: 11px;
+	cursor: pointer;
+	width: 100%;
+	border-radius: 3px;
+	display: block;
+	text-align: center;
+	text-decoration: navajowhite;
+}
+
+.login_form #fb {
+	background: #3B5998 !important;
+	color: #fff;
+	border: none;
+	padding: 11px;
+	cursor: pointer;
+	width: 100%;
+	border-radius: 3px;
+	display: block;
+	text-align: center;
+	text-decoration: navajowhite;
+}
+.sitefooter
+{
+	margin-top:60px;
+}
